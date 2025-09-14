@@ -1,0 +1,5 @@
+{
+  "name": "PubMed Semantic Search",
+  "description": "An application to perform enhanced semantic searches on the PubMed database for biomedical literature discovery, using AI to refine queries.",
+  "requestFramePermissions": []
+}
